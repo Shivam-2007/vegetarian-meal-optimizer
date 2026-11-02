@@ -1,4 +1,4 @@
-# vegetarian-meal-optimizer
+# Vegetarian-Meal-Optimizer
 Project Overview
 
 Vegetarian Meal Optimizer is a Java application designed to help college students find affordable, filling, and nutritious vegetarian meals. It allows users to compare meals based on cost per serving, calories, protein content, and individual satiety ratings.
